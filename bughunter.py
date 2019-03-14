@@ -626,10 +626,8 @@ def updatebughunter():
     
     Check Latest Version Here : https://github.com/thehackingsage/bughunter
     """)
-    choiceupdate = raw_input("    Do You Want To Update The BugHunter? (Y/N) : ")
-    if choiceupdate in yes:
-        os.system("cd ~/bughunter/ && wget https://github.com/thehackingsage/bughunter/blob/master/update.sh && sudo ./update.sh")
-    elif choiceupdate == "":
+    choiceupdate = raw_input(" Press Enter and Go Back To Main Menu : ")
+    if choiceupdate == "":
         clearScr()
         menu()
     else:
