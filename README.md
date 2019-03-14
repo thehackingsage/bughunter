@@ -135,11 +135,9 @@ Other :
 
 ## How To Install :
 
-```wget https://github.com/thehackingsage/BugHunter/blob/master/install.sh```
+```git clone https://github.com/thehackingsage/bughunter.git && cd bughunter && chmod +x bughunter.py && sudo cp bughunter.py /usr/bin/bughunter```
 
-```sudo chmod +x install.sh```
-
-```sudo ./install.sh```
+that's it.. type ***bughunter*** in terminal to execute the tool.
 
 Video Tutorial : Coming Soon
 
