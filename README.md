@@ -139,7 +139,7 @@ Other :
 
 that's it.. type ***bughunter*** in terminal to execute the tool.
 
-Video Tutorial : Coming Soon
+Video Tutorial : https://www.youtube.com/watch?v=opvQIgUD0Jc&t=18s
 
 ## Download Directory :
    
