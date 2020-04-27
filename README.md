@@ -1,6 +1,19 @@
 <p align="center"><img src="https://github.com/thehackingsage/BugHunter/blob/master/logo.png?raw=true" /></p>
 
-## Bug Hunter Menu :
+## Table Of Contents
+
+- [Bug Hunter Menu](#bug-hunter-menu)
+    - [Information Gathering](#information-gathering)
+    - [Mapping](#mapping)
+    - [Discovery](#discovery)
+    - [Exploitation](#exploitation)
+    - [PoCs & Reporting](#pocs--reporting)
+- [How To Install](#how-to-install)
+- [Download Directory](#download-directory)
+- [Source](#source)
+- [License](#license)
+
+## Bug Hunter Menu
 
 - Information Gathering
 - Mapping
@@ -8,7 +21,7 @@
 - Exploitation
 - PoCs & Reporting
 
-### Information Gathering :
+### Information Gathering
 
 - Basic Commands for Information Gathering
 - Masscan - TCP Port Scanner
@@ -27,7 +40,7 @@
 - WhatWeb - Next Generation Web Scanner
 - Maltego - Interactive Data Mining Tool    
     
-### Mapping :     
+### Mapping
     
 - Nmap - IP's, Open Ports and Much More
 - Firefox - Web Browser
@@ -37,7 +50,7 @@
 - Intruder Payloads for Burp Suite
 - Payloads All The Thing
     
-### Discovery :
+### Discovery
     
 - Acunetix-WVS
 - Arachni
@@ -55,7 +68,7 @@
 - FuzzDB
 - CeWL
 
-### Exploitation :
+### Exploitation
 
 XSS :
 - XSS Radar
@@ -123,7 +136,7 @@ Other :
 - jsbeautifier
 - LinkFinder
 
-### PoCs & Reporting :
+### PoCs & Reporting
 
 - Bug Bounty Platforms
 - POCs (Proof of Concepts)
@@ -133,40 +146,45 @@ Other :
 - BugBountyTemplates
 - Template Generator
 
-## How To Install :
+## How To Install
 
-```git clone https://github.com/thehackingsage/bughunter.git && cd bughunter && chmod +x bughunter.py && sudo cp bughunter.py /usr/bin/bughunter```
+```bash
+git clone https://github.com/thehackingsage/bughunter.git
+cd bughunter
+chmod +x bughunter.py
+sudo cp bughunter.py /usr/bin/bughunter
+```
 
-that's it.. type ***bughunter*** in terminal to execute the tool.
+Once done, type `bughunter` in the terminal to execute the tool.
 
 Video Tutorial : https://www.youtube.com/watch?v=opvQIgUD0Jc&t=18s
 
-## Download Directory :
+## Download Directory
    
-Normal User : /home/$USER/bughunter/
+Normal User : `/home/$USER/bughunter/`
 
-Root User : /root/bughunter/
+Root User : `/root/bughunter/`
 
-- ~/bughunter/info/ : Tools for Information Gathering
-- ~/bughunter/mapp/ : Tools for Mapping
-- ~/bughunter/disc/ : Tools for Discovery
-- ~/bughunter/expt/ : Tools for Exploitation
-- ~/bughunter/rept/ : Tools for Reporting
-- ~/bughunter/sage/ : Tools by Mr. SAGE
+- `~/bughunter/info/` : Tools for Information Gathering
+- `~/bughunter/mapp/` : Tools for Mapping
+- `~/bughunter/disc/` : Tools for Discovery
+- `~/bughunter/expt/` : Tools for Exploitation
+- `~/bughunter/rept/` : Tools for Reporting
+- `~/bughunter/sage/` : Tools by Mr. SAGE
 
 View Tool's README.md File for Installation Instruction and How To Use Guide.
 
-## Source : 
+## Source
 
 TBHM3, GitHub, Bug Bounty Forum, Google and Few Bug Hunting Articles.
 
-## License :
+## License
 
-[MIT Licence](https://github.com/thehackingsage/BugHunter/blob/master/LICENSE)
+[MIT Licence](/LICENSE)
 
 That's it... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) 
+& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [GitHub](https://www.github.com/thehackingsage) 
 & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
 
 ***Thankyou.***
